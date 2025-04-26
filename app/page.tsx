@@ -57,7 +57,7 @@ export default function LandingPage() {
                 </div>
                 <div className="flex flex-col gap-2 min-[400px]:flex-row">
                   <Link
-                    href="https://chat.whatsapp.com/BZciIr4NptxJPD7Qf1av3t"
+                    href="https://chat.whatsapp.com/JgQrJXjzj810CTaFwAcLM1"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex h-10 items-center justify-center rounded-md bg-[#25D366] px-8 text-sm font-medium text-white shadow transition-colors hover:bg-[#128C7E] focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
@@ -431,7 +431,7 @@ export default function LandingPage() {
                 </p>
               </div>
               <Link
-                href="https://chat.whatsapp.com/BZciIr4NptxJPD7Qf1av3t"
+                href="https://chat.whatsapp.com/JgQrJXjzj810CTaFwAcLM1"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex h-12 items-center justify-center rounded-md bg-white px-8 text-lg font-medium text-[#f7931a] shadow transition-colors hover:bg-gray-100 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
